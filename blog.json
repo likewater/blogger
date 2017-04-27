@@ -1,0 +1,26 @@
+{ "articles": [{
+    "title": "Comics",
+    "date": "March 3, 2017",
+    "body": "lorem ipsum and blah blah blah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+  }, {
+    "title": "Records",
+    "date": "March 4, 2017",
+    "body": "lorem ipsum and blah blah blah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+  }, {
+    "title": "Poodles",
+    "date": "March 5, 2017",
+    "body": "lorem ipsum and blah blah blah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+  }],
+  "reviews": [{
+    "author": "Andrea",
+    "comment": "blah",
+    "date": "April 4, 2017"
+  }, {
+    "author": "Alex",
+    "comment": "blah",
+    "date": "April 4, 2017"
+  }]
+}
